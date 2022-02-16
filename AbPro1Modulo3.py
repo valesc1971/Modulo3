@@ -1,3 +1,5 @@
+"""Grupo de trabajo: Valeria Sanchez, Fernando Quezada, Carlos Galleguillos, Alejandro Lanas"""
+
 Cupcakes=int(input("Ingrese numero de Cupcakes - Precio $1.000 c/u "))
 Torta1=int(input("Ingrese numero de Torta Princesa - Precio $10.000 c/u "))
 Galleton=int(input("Ingrese numero de Galleton de choc - Precio $500 c/u "))
